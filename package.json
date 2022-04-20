@@ -1,0 +1,20 @@
+{
+  "name": "etl-data-analyze",
+  "version": "1.0.0",
+  "description": "hotspots analyze for hummingbird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hummingbirdIot",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "csv-reader": "^1.0.8",
+    "csv-writer": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.5.0",
+    "typescript": "^4.6.3"
+  }
+}
